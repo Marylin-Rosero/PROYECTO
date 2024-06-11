@@ -5,8 +5,8 @@ https://drive.google.com/drive/folders/1qsFmaYQPRBchmn770GvKXcXlvhroym0s?usp=sha
 
 
 integrantes:
-Zambrano Vasquez Ana Michelle
-Rosero Lopez Marylin Nicolle
-Cerezo Indio Cristian Ariel
-Bazurto Andy
+Zambrano Vasquez Ana Michelle,
+Rosero Lopez Marylin Nicolle,
+Cerezo Indio Cristian Ariel,
+Bazurto Salorzano Andy.
 
